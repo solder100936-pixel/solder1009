@@ -1,0 +1,105 @@
+網址: https://fw.wda.gov.tw/wda-employer/home/download-file/2c95efb39b7b5f3d019b7cc6048b079a.pdf
+HTTP 狀態: 200
+Content-Type: application/pdf
+讀取時間(台灣): 2026-11-03 16:04:46
+----
+□外國人、原雇主及新雇主三方合意                 接續聘僱證明書(中印雙語版)
+ Surat Bukti Ganti Majikan atas Persetujuan Tiga Pihak TKA,Majikan Asal dan Majikan Baru
+□外國人及新雇主雙方合意 接續聘僱證明書(中印雙語版)
+ Surat Bukti Ganti Majikan atas Persetujuan Dua Pihak TKA dan Majikan Baru
+
+新雇主名稱 Nama Majikan Baru
+
+新雇主統一編號或身分證字號                                            聯絡電話
+No. KTP majikan baru.                                    No.Telepon
+                                                         護照號碼
+外國人姓名 Nama TKA
+                                                         No.Paspor
+
+原雇主名稱 Nama Majikan Asal
+
+原雇主統一編號或身分證字號                                             聯絡電話
+No.TKP majikan asal                                       No.Telepon
+原雇主有下列情事之ㄧ（請擇一勾選）                  ，本人（外國人）自             年     月      日（接續聘僱起始日）起由新
+雇主接續聘僱，並自接續聘僱起始日負雇主責任、繳納就業安定費及依相關規定辦理：
+Majikan yang memenuhi salah satu kondisi seperti di bawah ini (silakan pilih salah satu), saya
+(TKA) terhitung sejak      tahun_____bulan______tanggal______ melanjutkan pekerjaan di majikan
+baru, dan bersedia diproses sesuai peraturan yang berlaku：
+1. 被看護者 pasien yang dirawat □a.死亡 meninggal dunia □b.移民 imigrasi（不可申請遞補招募許
+  可）
+   （Tidak dapat mengajukan permohonan surat rekruitmen ulang.）
+2. 原雇主 Majikan asal □a.死亡 meninggal dunia □b.移民 imigrasi（不可申請遞補招募許可）
+   （Tidak dapat mengajukan permohonan surat rekruitmen ulang.）
+□3. 船舶被扣押、沉沒或修繕而無法繼續作業者。（不可申請遞補招募許可）
+     Kapal nelayan ditahan,tenggelam atau sedang dalam perbaikan sehingga tidak bisa beroperasi。
+   （Tidak dapat mengajukan permohonan surat rekruitmen ulang.）
+□4. 雇主關廠、歇業或不依勞動契約給付工作報酬經終止勞動契約者。（不可申請遞補招募許可）
+     Pabrik tutup atau tidak dapat memenuhi peraturan hukum untuk membayar gaji pekerja.
+   （Tidak dapat mengajukan permohonan surat rekruitmen ulang.）
+□5. 其他不可歸責於受聘僱外國人之事由者。（不可申請遞補招募許可）
+     Hal lain-lain yang tidak berdasarkan pada ketentuan perekrutan TKA.
+   （Tidak dapat mengajukan permohonan surat rekruitmen ulang.）
+□6. 外籍家庭看護工經原雇主同意轉換雇主或工作。（可申請遞補招募許可）
+     TKA perawat pasien yang telah mendapat persetujuan dari pihak majikan asal untuk ganti
+     majikan atau pekerjaan.（Dapat mengajukan permohonan surat rekruitmen ulang.）
+備註：1.勾選第 6 項外國人轉換理由，原雇主可依就業服務法第 58 條第 2 項第 3 款規定向本部申請遞補
+         招募許可。(外籍家庭看護技術工轉換不適用)
+       2.本證明書 1 式 5 份，外國人、原雇主及新雇主各收執 1 份，新雇主應於合意接續聘僱外國人之日
+          起依規定通知當地主管機關實施檢查及向中央主管機關申請接續聘僱許可。
+       3.原雇主所聘僱之外國人如逾期健檢，或未辦理健檢，或新雇主無法取得外國人之健檢資料者，新
+        雇主應自接續聘僱外國人之日起 7 日內，安排承接之外國人至衛生福利部指定之醫院接受健康檢
+        查。
+Keterangan:1. Sesuai dengan peraturan ketenagakerjaan pasal 58 ayat 2 bagian 3 majikan awal
+        dapat mengajukan permohonan surat perekrutan sambungan ke departemen ketenaga
+        kerjaan. (Tidak berlaku untuk pekerjaan tenaga asing teknis perawat rumah tangga)
+       2.surat bukti 1 rangkap 5 set,TKA,majikan awal dan majikan baru masing masing 1 set,3
+         hari terhitung dari tanggal TKA mulai kerja,harus melapor ke depnaker setempat dan
+         melakukan pengajuan surat persetujuan kerja dari MOL.
+       3.majikan awal telah melewati waktu masih belum membawa TKA pergi medical,atau sama
+        sekali tidak medical,atau majikan baru tidak mendapatkan data hasil medical TKA,maka
+        di mulai dari tanggal majikan baru mempekerjaan TKA dalam waktu 7 hari harus membawa
+        TKA pergi medical ke tempat yang di tunjuk oleh departemen kesehatan。
+家庭看 新雇主資格 persyaratan majikan baru：
+護工專 □有效期限內之招募許可函 surat ijin perekrutan yang masih berlaku
+用欄位 □合格醫院開具 1 年內之病症暨失能診斷證明書
+bagian Surat keterangan diagnosis penyakit atau ketidakmampuan dari rumah sakit legal
+khusus dengan masa berlaku dalam satu tahun
+TKA       □有效期限內之身心障礙證明（特定身心障礙項目之一者）
+
+AF-T19                                                                                1150101 版
+ perawat Surat keterangan disabilitas fisik dan mental yang masih berlaku (termasuk dalam
+ orang   salah satu kategori disabilitas tertentu)
+ sakit   □符合長期照顧服務申請及給付辦法第 7 條及第 9 條附表四，且由各級政府補助使用居家照顧服
+          務、日間照顧服務或家庭托顧服務連續達 6 個月以上者
+          Memenuhi permohonan untuk layanan perawatan jangka Panjang dan metode pembayaran
+          sesuai UU Pasal 7 dan Pasal 9 lampiran 4，dimana mereka yang telah menggunakan layanan
+          perawatan di rumah, dengan subsidi dari pemerintah di semua tingkatan selama lebih dari 6
+          bulan berturut-turut
+          □經醫師開立診斷證明書，符合中央主管機關公告之病症或病況者
+          Surat keterangan diagnosis dari dokter dan memenuhi kriteria penyakit berat yang
+          sesuai dengan pengumuman otoritas pusat yang berwenang
+          □被看護者 1 年內曾受從事家庭看護工作，或家庭看護技術工作之外國人照顧者
+          Pasien yang dirawat dalam 1 tahun terakhir pernah dirawat oleh orang asing melakukan
+          pekerjaan perawat rumah tangga ,atau pekerjaan teknis perawat rumah tangga
+          □被看護者年齡滿 80 歲以上，雇主持其身分證明文件
+          Pasien yang dirawat berusia 80 tahun keatas ,pemberi kerja harus melampirkan dokumen
+          identitas
+          □雇主申請聘僱外國人從事家庭看護技術工作，被看護者符合免經醫療機構專業評估之情形
+          Majikan mengajukan permohonan untuk mempekerjakan orang asing melakukan pekerjaan
+          teknis perawat rumah tangga,dan orang yang dirawat memenuhi ketentuan untuk dibebaskan
+          dari penilaian professional oleh institusi medis
+        （本欄位請務必勾選，並請檢附招募許可函、診斷證明書或身心障礙證明影本，俾憑認定）
+        (Mohon wajib mencentang kolom ini ,dan melampirkan surat izin perekutan ,fotocopy
+        surat keterangan dokter atau surat keterangan disabilitas fisik & mental ,sebagai
+        dasar untuk diverifikasi)
+新雇主 Majikan baru：                  （簽章 Cap tanda tangan，
+                                    家庭類請簽名 utk gol.rumah tangga silakan tanda tangan）
+原雇主 Majikan asal：                  （簽章 Cap tanda tangan,
+                                    家庭類請簽名 utk gol.rumah tangga silakan tanda tangan）
+外國人 TKA：                               （簽名 Tanda tangan）
+
+
+
+
+ AF-T19                                                                                     1150101 版
+

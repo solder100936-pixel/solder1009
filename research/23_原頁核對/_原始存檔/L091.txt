@@ -1,0 +1,7 @@
+網址: https://tph.judicial.gov.tw/tw/cp-10542-1942606-a9e41-051.html
+HTTP 狀態: 打不開（無回應內容）
+Content-Type: —
+讀取時間(台灣): 2026-11-03 15:42:53
+----
+（fetch_page.sh 未取得頁面，以下為工具印出的錯誤原文）
+curl: (35) Recv failure: Connection reset by peer

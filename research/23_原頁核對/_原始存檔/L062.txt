@@ -1,0 +1,7 @@
+網址: https://805.mnd.gov.tw/media/%E6%9C%AC%E9%99%A2%E4%B8%80%E8%88%AC%E8%AD%B7%E7%90%86%E4%B9%8B%E5%AE%B6%E6%94%B6%E8%B2%BB%E5%9F%BA%E6%BA%96%E8%A1%A8.pdf
+HTTP 狀態: 打不開（無回應內容）
+Content-Type: —
+讀取時間(台灣): 2026-11-03 15:42:45
+----
+（fetch_page.sh 未取得頁面，以下為工具印出的錯誤原文）
+curl: (56) CONNECT tunnel failed, response 403

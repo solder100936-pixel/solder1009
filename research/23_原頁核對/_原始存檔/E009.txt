@@ -1,0 +1,7 @@
+網址: https://www.shigang.taichung.gov.tw/media/1335672/%E5%B1%85%E5%AE%B6%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%80%85%E4%BD%BF%E7%94%A8%E7%B6%AD%E7%94%9F%E5%99%A8%E6%9D%90%E6%96%B7%E9%9B%BB%E6%87%89%E8%AE%8A%E6%A9%9F%E5%88%B6.pdf
+HTTP 狀態: 打不開（無回應內容）
+Content-Type: —
+讀取時間(台灣): 2026-11-03 15:43:30
+----
+（fetch_page.sh 未取得頁面，以下為工具印出的錯誤原文）
+curl: (56) CONNECT tunnel failed, response 403
