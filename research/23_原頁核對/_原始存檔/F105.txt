@@ -1,0 +1,82 @@
+網址: https://service.mohw.gov.tw/ebook/dopl/112/03/files/basic-html/page16.html
+HTTP 狀態: 200
+Content-Type: text/html
+讀取時間(台灣): 2026-11-03 15:43:27
+----
+﻿
+
+Page 16 - 112中文衛福年報簡介
+
+Basic HTML Version
+
+Table of Contents
+
+View Full Version
+
+Page 16 - 112中文衛福年報簡介
+
+P. 16
+
+112 年版 衛生福利年報簡介
+
+全民健保與
+
+國民年金
+
+National Health Insurance
+and National Pension
+
+全民健保擁有「普及、經濟、便 Taiwan's National Health Insurance (NHI) is well known for its
+advantages such as accessibility, affordability, convenience and
+利、滿意度高」等亮點，在國內獲
+high satisfaction. It has maintained a satisfaction rate of over 90%
+得滿意度超過九成。截至 111 年
+domestically. As of the end of 2022, the total number of insured
+底，總投保人數 2,378 萬人，納
+people came to 23.78 million and the NHI coverage rate achieved
+保率達 99.9％，全國 92％醫療院
+99.9%. 92% of the medical institutions in Taiwan have contracted
+所參與健保特約，就醫可近性高。
+with the National Health Insurance Administration (NHIA) enabling
+健保財務主要來自保險對象、雇
+high accessibility to healthcare services. Health insurance funding
+主及政府共同分擔的保險費。 mainly derives from insurance premiums paid by the insured, their
+employers and the government.
+111 年平均每人每年門診就醫次
+數 14.26 次，住院 0.13 次，平均
+In 2022, the average number of outpatient visits per person per year
+日數 1.24 日。隨著人口高齡化及 was 14.26, with an average of 0.13 hospitalizations and a mean
+醫療科技進步，醫療費用逐年增 duration of 1.24 days. With the aging population and advancements
+加，在健保資源有限的情況下， in medical technology, healthcare costs have been increasing. Given
+the limited resources of the National Health Insurance (NHI) system,
+透過醫療科技評估，持續檢視支
+continuous evaluation of medical technology and review of payment
+付標準，落實公平負擔原則。
+standards are carried out to ensure fair burden-sharing.
+未來以全人全程照顧為目標，向
+前延伸預防保健，向後銜接長 Looking ahead, the goal is to achieve comprehensive and continuous
+care, connecting forward with preventive medicine and backward
+照服務，推動數位轉型服務，
+with long-term care. This involves promoting digital transformation
+持續精進健保快易通｜健康存摺
+services and further enhancing personalized services such as the
+APP、虛擬健保卡等個人化服務，
+"My Health Bank" app and virtual NHI card. Simultaneously, there
+同時強化資安，保障個資安全，
+is a focus on strengthening data security to safeguard personal
+持續與各部會、醫界及民眾溝通，
+information. Continuous communication with various government
+共創健保、醫療提供者與被保險
+departments, medical professionals, and the public is maintained
+人三贏永續發展。 to foster sustainable development that beneﬁts the NHI, healthcare
+providers, and insured individuals.
+國民年金納保對象為未參加軍、
+公教、勞、農保的 25～64 歲國
+Taiwan's National Pension Insurance (NPI) was established to cover
+民，111 年底國保被保險人 281 萬 citizens aged between 25 and 64 years old who do not participate
+餘人、核發給付人數 196 萬餘人、 in relevant social insurances for military personnel, civil servants and
+
+14
+
+11     12     13     14     15     16     17     18     19     20     21
+

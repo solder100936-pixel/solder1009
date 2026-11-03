@@ -1,0 +1,7 @@
+網址: https://wd.vghtpe.gov.tw/cmd/files/%E8%87%BA%E5%8C%97%E6%A6%AE%E6%B0%91%E7%B8%BD%E9%86%AB%E9%99%A2%E5%91%BC%E5%90%B8%E7%85%A7%E8%AD%B7%E4%B8%AD%E5%BF%83%E4%BD%8F%E9%99%A2%E8%AA%AA%E6%98%8E%E6%9B%B8.pdf
+HTTP 狀態: 打不開（無回應內容）
+Content-Type: —
+讀取時間(台灣): 2026-11-03 15:42:42
+----
+（fetch_page.sh 未取得頁面，以下為工具印出的錯誤原文）
+curl: (56) CONNECT tunnel failed, response 403

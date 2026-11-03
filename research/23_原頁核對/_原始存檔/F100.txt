@@ -1,0 +1,7 @@
+網址: https://uptogo.com.tw/%E6%96%87%E5%8C%96/%E7%A6%AE%E5%93%81/%E9%BB%9E%E4%B8%BB%E7%B4%85%E5%8C%85%E5%A4%9A%E5%B0%91%EF%BC%9F/
+HTTP 狀態: 打不開（無回應內容）
+Content-Type: —
+讀取時間(台灣): 2026-11-03 15:43:26
+----
+（fetch_page.sh 未取得頁面，以下為工具印出的錯誤原文）
+curl: (56) CONNECT tunnel failed, response 403

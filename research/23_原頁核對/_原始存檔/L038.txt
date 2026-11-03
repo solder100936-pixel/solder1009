@@ -1,0 +1,976 @@
+網址: https://www.nhi.gov.tw/ch/dl-30022-82301689a1024d6e9206e50eb5c11649-1.pdf
+HTTP 狀態: 200
+Content-Type: application/pdf
+讀取時間(台灣): 2026-11-03 15:42:41
+----
+        附表一、全民健康保險重大傷病項目及其證明有效期限
+      104年12月31日前適用：
+ICD-9-CM 碼                                                         證明
+              重大傷病項目       英文疾病名稱
+2001年版                                                             有效期限
+              一、需積極或長期治療之癌 Malignant neoplasm                      五年
+              症。
+140-208         惡性腫瘤
+
+             二、先天性凝血因子異常。                                          永久
+286.0        （一）先天性第八凝血因子 Congenital factor Ⅷ disorder
+                 異常〔A 型血友
+                 病〕。
+286.1        （二）先天性第九凝血因子 Congenital factor Ⅸ disorder
+                 異常〔B 型血友
+                 病〕。
+286.2        （三）先天性第十一凝血因 Congenital factor XI deficiency
+                 子異常〔C 型血友
+                 病〕。
+286.3        （四）其他凝血因子先天性 Congenital deficiency of other
+                 缺乏症異常。       clotting factors
+             三、嚴重溶血性及再生不良                                          五年
+             性貧血〔血紅素未經治療，
+             成人經常低於8gm/dl 以下，
+             新生兒經常低於12gm/dl 以
+             下者〕。
+
+282          （一）遺傳性溶血性貧血            Hereditary hemolytic anemias
+
+283          （二）後天性溶血性貧血            Acquired hemolytic anemias
+
+284          （三）再生不良性貧血             Aplastic anemias
+             四、慢性腎衰竭〔尿毒                                            永久：申
+             症〕，必須接受定期透析治                                          請時已確
+585          療者。                                                   定需定期
+                                    Chronic Renal failure          透析者。
+             （一）慢性腎衰竭
+                                    （End-stage renal disease）
+
+
+
+
+403.01、403.11、 （二）高血壓性腎臟病伴有 Hypertensive renal disease with        三個月：
+                  腎衰竭       renal failure                          申請時尚
+403.91
+               （三）高血壓性心臟及腎臟 Hypertensive heart and renal           無法確定
+404.02、                     disease with renal failure
+                  病伴有腎衰竭                                           需定期透
+404.03、                                                            析者
+404.12、
+404.13、
+404.92、404.93
+                五、需終身治療之全身性自                                    永久
+                體免疫症候群。
+710.0           （一）紅斑性狼瘡        Systemic lupus erythematosus
+710.1           （二）全身性硬化症       Systemic sclerosis
+714.0、          （三）類風濕關節炎〔符合 Rheumatoid arthritis
+714.30~714.33       1987美國風濕病學院 Rheumatoid arthritis juvenile
+                    修訂之診斷標準，含
+                    青年型類風濕關節
+                    炎〕
+710.4           （四）多發性肌炎        Polymyositis
+710.3           （五）皮肌炎          Dermatomyositis
+                （六）血管炎          Vasculitis
+446.0             1.結節狀多動脈炎     Polyarteritis nodosa
+446.2             2.過敏性血管炎      Hypersensitivity angiitis
+446.4             3.韋格納氏肉芽腫     Wegener’s granulomatosis
+446.5             4.巨細胞動脈炎      Giant cell arteritis
+443.1             5.血栓閉鎖性血管炎    Thromboangiitis obliterans
+                                       （Buerger’s disease）
+446.7              6.閉鎖式動脈炎            Takayasus’s disease
+
+446.1             7.急性發熱性黏膜皮膚          Kawasaki disease
+                    淋巴結徵候群（川崎
+                    病）
+136.1             8.貝賽特氏病              Behcet’s disease
+694.4           （七）天孢瘡                 Pemphigus
+710.2           （八）乾燥症                 Sjogren’s syndrome
+555             （九）克隆氏症                Crohn’s disease
+
+556.0~556.6、    （十）慢性潰瘍性結腸炎            Ulcerative colitis
+556.8~556.9
+                六、慢性精神病〔符合以下
+                診斷，而病情已經慢性化
+                者，除第（一）項外，限由
+                精神科專科醫師所開具之診
+                斷書並加註專科醫師證號〕
+
+290             （一）老年期及初老年期器 Senile and presenile organic       永久
+                   質性精神病態【限由精 psychotic conditions
+                   神科或神經科專科醫師
+                   開具之診斷書並加註專
+                   科醫師證號】
+293.1     （二）亞急性譫妄             Subacute delirium           六個月
+                                                           （每六個
+                                                           月重新評
+                                                           估）
+294       （三）其他器質性精神病態 Other organic psychotic conditions 二年：首
+                         （chronic）                         次
+                                                           永久：續
+                                                           發
+295       （四）思覺失調症       Schizophrenic disorders           永久
+296       （五）情感性精神病      Affective psychoses               二年：首
+                                                           次
+                                                           永久：續
+                                                           發
+297       （六）妄想狀態        Paranoid states                   二年：首
+                                                           次
+                                                           永久：續
+                                                           發
+299       （七）源自兒童期之精神病 Psychoses with origin specific to
+                         childhood
+299.0        1. 幼兒自閉症    Infantile autism                  五年：首
+                                                           次
+                                                           永久：續
+                                                           發
+299.1        2. 崩解性精神病   Disintegrative psychoses          五年：首
+                                                           次
+                                                           永久：續
+                                                           發
+299.8        3. 其他源發於兒童期 Other specified early childhood   五年：首
+                之精神病     psychoses                         次
+                                                           永久：續
+                                                           發
+299.9        4. 未明示其他源發於 Psychoses with origin specific to 三年：首
+                兒童期之精神病  childhood  unspecified            次
+                                                           五年：續
+                                                           發
+                                                           五年：再
+                                                           發
+                                                           永久：第
+                                                           四次以後
+          七、先天性新陳代謝異常疾                                     永久
+          病〔G6PD 代謝異常除外〕
+
+
+243       （一）先天性甲狀腺功能不 Congenital hypothyroidism
+250.01、   足            Type I diabetes mellitus
+250.03、   （二）胰島素依賴型糖尿病
+250.11、250.13、
+250.21、
+250.23、
+250.31、
+250.33、
+250.41、
+250.43、                                     Diabetes insipidus
+250.51、          （三）尿崩症
+250.53、
+250.61、
+250.63、
+250.71、
+250.73、
+250.81、
+250.83、
+250.91、
+250.93、
+253.5
+255.2          （四）先天性腎上腺泌尿道                 Congenital adrenal hyperplasia
+270               症候群                       Disorders of amino-acid transport
+               （五）氨基酸輸送與代謝之                 and metabolism
+                  失調
+271.0          （六）肝醣貯積症                     Glycogent storage disease
+271.1          （七）半乳糖血症                     Galactosemia
+272.1          （八）純高甘油脂血症                   Pure hyperglyceridemia
+272.6          （九）脂質營養不良症                   Lipodystrophy
+272.7          （十）脂肪代謝障礙                    Lipidoses
+272.9          （十一）脂質代謝失調症                  Disorders of lipoid metabolism
+275.1          （十二）銅代謝失調症                   Disorders of copper metabolism
+275.40~275.42、 （十三）鈣代謝失調症                   Disorders of calcium metabolism
+275.49
+277.2            （十四）Purine 及 Pyrimidine Other disorders of purine and
+                     之其他代謝失調症 pyrimidine metabolism
+277.5            （十五）黏多醣症                Mucopolysaccharidosis
+277.8            （十六）其他特定之新陳代 Other specified disorders of
+                   謝                     metabolism
+                   失調症
+277.9            （十七）新陳代謝失調症             Disorders of metabolism
+                 八、心、肺、胃腸、腎臟、
+                 神經、骨骼系統等之先天性
+                 畸形及染色體異常
+740           （一）無腦症及類似畸形   Anencephalus and similar             永久
+                            anomalies
+742           （二）神經系統之其他先天 Other congenital anomalies of         三年
+                 性畸形        nervous system
+745~746       （三）先天性心球〔胚胎〕 Bulbus cordis anomalies and           三年
+                 及心臟中隔閉合之畸形 anomalies  of cardiac septal closure
+                 或心臟之其他先天性畸 or other congenital anomalies of
+                            heart
+                 形
+747           （四）循環系統之其他先天 Other congenital anomalies of         三年
+                 性畸形        circulatory system
+748.4         （五）先天性肺囊腫     Congenital cystic lung disease       永久
+748.5          （六）肺缺乏症形成不全及           Agenesis, hypoplasia and            永久
+                  形成異常                dysplasia of lung
+748.6          （七）肺之其他畸形              Other anomalies of lung             永久
+751            （八）消化系統之其他先天           Other congenital anomalies of       永久
+                  性畸形                 digestive system
+753.0          （九）腎缺乏症及形成異常           Renal agenesis and dysgenesis       永久
+753.1          （十）囊腫性腎病               Cystic kidney disease               永久
+753.20~753.23、 （十一）腎盂及輸尿管之阻           Obstructive defects of renal pelvis 永久
+                   塞性缺陷               and ureter
+753.29
+753.3          （十二）腎之其他明示畸形 Other specified anomalies of           永久
+                             kidney
+756.4          （十三）軟骨形成異常    Chondrodystrophy                      永久
+758            （十四）染色體異常     Chromosomal   anomalies               永久
+749.01~749.04、 （十五）先天性畸形唇顎裂  Congenital cleft palate and cleft lip 三年
+749.11~749.14、〔限需多次手術治療及語言復
+               健者〕
+749.21~749.25
+               九、燒燙傷面積達全身百分                                        一年
+               之二十以上；或顏面燒燙傷
+               合併五官功能障礙者。
+948.2~948.9                  Burn of >20% of total body
+                 （一）體表面積之大於
+                             surface
+                   20%
+                             Burn confined to eye and adnexa
+                   之燒傷
+940
+                （二）顏面燒燙傷
+                1.眼及其附屬器官之燒傷
+
+
+
+941.5          2.臉及頭之燒傷，深部組 Burn of face and head, deep
+                 織壞死（深三度），伴 necrosis of underlying tissue (deep
+                 有身體部位損害。   third degree) with loss of a body
+                            part
+              十、接受腎臟、心臟、肺
+              臟、肝臟、骨髓、胰臟及小
+              腸移植後之追蹤治療。
+V42.0           （一）腎臟移植手術後之追               Kidney replaced by transplant 永久
+                   蹤治療
+V42.1           （二）心臟移植手術後之追          Heart replaced by transplant        永久
+                   蹤治療
+V42.6           （三）肺臟移植手術後之追          Lung replaced by transplant         永久
+                   蹤治療
+V42.7           （四）肝臟移植手術後之追          Liver replaced by transplant        永久
+                   蹤治療
+V42.81~V42.82   （五）骨髓移植手術後之追          Bone marrow replaced by             五年
+                   蹤治療                transplant
+V42.83          （六）胰臟移植手術後之追          Pancreas replaced by transplant     永久
+                   蹤治療
+V42.84          （七）小腸移植手術後之追          Intestines replaced by transplant   永久
+                   蹤
+                 治療
+996.81          （八）腎臟移植併發症            Complication of transplanted       永久
+                                      kidney
+996.82          （九）肝臟移植併發症            Complication of transplanted liver 永久
+
+996.83          （十）心臟移植併發症            Complication of transplanted heart 永久
+
+996.84          （十一）肺臟移植併發症           Complication of transplanted lung 永久
+
+996.85          （十二）骨髓移植併發症       Complication of transplanted bone 五年
+                                  marrow
+996.86          （十三）胰臟移植併發症       Complication of transplanted      永久
+                                  pancreas
+996.87          （十四）小腸移植併發症       Complications of transplanted     永久
+                                  intestine
+                十一、小兒麻痺、腦性麻痺                                        永久
+                所引起之神經、肌肉、骨
+                骼、肺臟等之併發症者（其
+                身心障礙等級在中度以上
+                者）。
+                （一）急性脊髓灰白質炎併
+045.1                有其他麻痺者       Acute poliomyelitis with other
+                                  paralysis
+343             （二）嬰兒腦性麻痺         Infantile cerebral palsy
+344＋138         （三）其他麻痺性徵候群       Other paralytic syndromes late
+                     （急性脊髓灰白質炎之 effects of acute poliomyelitis
+                     後期影響併有提及麻痺
+                     性徵候群）
+959.99          十二、重大創傷且其嚴重程 Major trauma rated 16 or above on 一年：首
+                度到達創傷嚴重程度分數十 the severity scale                     次
+                六分以上者             (injury severity score ≧16)       三年：續
+                 (INJURY SEVERITY                                   發
+          SCORE ≧16)
+         （※植物人狀態不可以 ISS
+          計算）
+
+
+
+
+518.85   十三、因呼吸衰竭需長期使 Long-term mechanical ventilation, 四十二
+         用呼吸器符合下列任一項   defined as one of the following:      日：首次
+         者：                                                  三個月：
+                       1. Invasive mechanical ventilation 續發
+         （一）使用侵襲性呼吸輔助
+                          for 21 or more days.
+            器二十一天以上者                                         一年：第
+                       2. Invasive mechanical ventilation
+         （二）使用侵襲性呼吸輔助                                        三次以後
+                          followed by non-invasive
+            器改善後，改用非侵     ventilation, with a total duration
+            襲性陽壓呼吸治療總     of 21 or more days.
+            計二十一天以上者   3. Invasive mechanical ventilation
+         （三）使用侵襲性呼吸輔助     followed by negative pressure
+            器後改用負壓呼吸輔     ventilation, with a total duration
+                          of 21 or more days.
+            助器總計二十一天以
+                       4. Specific diseases, e.g., End
+            上者         stage heart failure, chronic
+         （四）特殊疾病(末期心衰 pulmonary diseases, primary
+            竭、慢性呼吸道疾   neuromuscular diseases, chronic
+            病、原發性神經原肌 hypoventilation syndrome, which
+            肉病變、慢性換氣不 require non-invasive ventilation
+            足症候群)而須使用非 for 21 or more days.
+            侵襲性陽壓呼吸治療
+            總計二十一天以上
+            者。
+261.0    以上天數計算須符合連續使
+         用定義原則
+
+
+
+
+         十四                                                三個月：
+         （一）因腸道大量切除或失 Patients suffering  from severe      首次
+261.1
+            去功能引起之嚴重營 malnutrition due to major            三年：續
+                      enterectomy,  intestinal failure     發
+            養不良者，給予全靜
+                      already on a fully intravenous diet
+            脈營養已超過三十  for 30 days, and unable to obtain
+            天，且病情已達穩定 sufficient nutrition through an oral
+            狀態，口攝飲食仍無 diet
+            法提供足量營養者。 Patients suffering from severe
+         （二）其他慢性疾病之嚴重 malnutrition due to other chronic
+            營養不良者，給予全 disease already on a fully
+            靜脈營養已超過三十 intravenous diet for 30 days, and
+                      unable to obtain sufficient
+            天，且病情已達穩定
+                      nutrition through an oral diet
+                     狀態，口攝飲食仍無
+                     法提供足量營養者。
+
+                十五、因潛水、或減壓不當
+                引起之嚴重型減壓病或空氣
+                栓塞症，伴有呼吸、循環或
+                神經系統之併發症且需長期
+                治療者。
+993.3           （一）減壓病       Decompression sickness              永久
+958.0           （二）空氣栓塞症     Air embolism                        三年
+
+358.0           十六、重症肌無力症             Myasthenia gravis          三年
+                十七、先天性免疫不全症                                      五年
+
+279.00、279.06   （一）低丙種球蛋白血症  Hypogammaglobulinemia
+279.08          （二）選擇性免疫球蛋白缺 Selective immunoglobulin
+                   乏合併反覆相關之感 deficiency combined with repeated
+                   染         related infection
+279.1           （三）細胞性免疫缺乏症  Deficiency of cell-mediated
+                             immunity
+279.2           （四）複合型免疫缺乏症  Combined immunity deficiency
+279.3           （五）吞噬細胞功能低下症 Phagocyte deficiency( chronic
+                             granulomatous disease )
+279.8           （六）其他免疫疾病    Other specified disorder of
+                             immune mechanism
+                十八、脊髓損傷或病變所引                                   永久
+                起之神經、肌肉、皮膚、骨
+                骼、心肺、泌尿及腸胃等之
+                併發症者（其身心障礙等級
+                在中度以上者）
+806             （一）脊柱骨折，伴有脊髓 Fracture of vertebral column with
+                   病灶        spinal cord injury
+952             （二）無明顯脊椎損傷之脊 Spinal cord injury without
+                   髓傷害       evidence of spinal bone injury
+336             （三）其他脊髓病變    Other disease of spinal cord
+
+                十九、職業病       Occupational disease                三年：首
+                 （以勞工保險條例第三十                                     次
+                 四條第一項規定之職業病                                     永久：續
+                 種類表所載職業病範圍為                                     發
+                 限；適用對象限已退休之
+                 未具勞工保險被保險人身
+                 份之保險對象；具勞工保
+                 險被保險人身份者，應依
+                勞工保險職業病就醫規定
+                辦理，亦免自行負擔部分
+                醫療費用）
+500            （一）煤礦工人塵肺症   Coal workers’ pneumoconiosis
+501            （二）石綿沉著症     Asbestosis
+502            （三）其他矽石或矽鹽所致 Pneumoconiosis due to other silica
+                 之塵肺症       or silicates
+503            （四）其他無機性塵埃所致 Pneumoconiosis due to other
+                  之塵肺症      inorganic dust
+505            （五）塵肺症       Pneumoconiosis
+               二十、急性腦血管疾病（限 Cerebrovascular disease (acute     急性發作
+               急性發作後一個月內）   stage)                             後一個月
+4304           （一）蜘蛛膜下腔出血   Subarachnoid   hemorrhage          內由醫師
+                            Intracerebral hemorrhage
+431、432        （二）腦內出血                                         逕行認定
+                            Cerebral infarction
+433、434        （三）腦梗塞       Other cerebrovascular disease      免申請證
+               （四）其他腦血管疾病                                      明
+435~437
+340            二十一、多發性硬化症            Multiple sclerosis
+                                                                       五年
+359.0、359.1                          Congenital muscular dystrophy
+               二十二、先天性肌肉萎縮症                                            永久
+               二十三、外皮之先天畸形           Congenital anomalies integument
+                                                                       永久
+757.39        （一）先天性水泡性表皮鬆 Congenital epidermolysis bullosa
+                  懈症
+757.9                      Congenital anomalies of the
+              （二）先天性之外皮畸形
+                           integument
+757.1                      Ichthyosis congenita
+              （三）先天性魚鱗癬症（穿
+                山
+               甲症）
+030           二十四、漢生病      Leprosy（Hansen’s disease）         永久
+571.2、 571.5、 二十五、肝硬化症，併有下 Liver cirrhosis with complication 五年
+571.6         列情形之一者：
+              （一）腹水無法控制     Ascites with poor control
+              （二）食道或胃靜脈曲張出血 Esophageal or gastric varicosis
+                            bleeding
+               （三）肝昏迷或肝代償不全 Hepatic coma or liver
+                            dyscompensated
+               二十六、早產兒所引起之神
+                經、肌肉、骨骼、心臟、
+                肺臟等之併發症。
+765.90         （一）早產兒出生後三個月 Neurological, muscular, skeletal,          由醫師逕
+                  內因神經、肌肉、骨 cardiac or pulmonary                       行認定免
+                  骼、心臟、肺臟（含 complications due to premature             申請證明
+                  支氣管）等之併發症 infants to have admission care
+                 住院者       within three months birth.
+765.99        （二）早產兒出生滿三個月 Neurological, muscular, skeletal, 三年
+                 後，經身心障礙等級 cardiac or pulmonary
+                 評鑑為中度以上，領 complications due to premature
+                 有社政單位核發之身 infants certified to have moderate
+                           impairments three months of age.
+                 心障礙手冊者
+985.1         二十七、砷及其化合物之毒 Toxic effect of arsenic and its      永久
+              性作用（烏腳病）     compounds (black foot disease)
+
+335.2         二十八、運動神經元疾病其 Motor neuron disease
+                                                                永久
+              身心障礙等級在中度以上或
+              須使用呼吸器者【惟經神經
+              內科專科醫師診斷為肌萎縮
+              性側索硬化症者
+              （AMYOTROPHIC
+              LATERAL SCLEROSIS
+              ICD-9-CM 335.20），不受其
+              身心障礙等級在中度以上或
+              須使用呼吸器之限制】。
+046.1         二十九、庫賈氏病             Jakob -Creutzfeldt disease   永久
+              三十、經本部公告之罕見疾 Rare disease
+                                                                永久
+              病，但已列屬前二十九類者
+              除外。
+
+
+
+
+        105年1月1日起適用
+
+                                                                     證明有效期
+ICD-10-CM/PCS 碼    重大傷病項目                         英文疾病名稱
+                                                                     限
+2014年版
+                   一、需積極或長期治療之癌症。
+C73                (一)甲狀腺惡性腫瘤       Malignant neoplasm of 三年
+                                    thyroid gland
+C00.0-C06.9、C09.0- (二)口腔、口咽及下咽惡性腫瘤第 Malignant neoplasm of 三年
+C10.9、C12-C14.8       一期            oral cavity,oropharynx
+C50.011-C50.929                     and hypopharynx stage I
+                   (三)乳房惡性腫瘤第一期     Malignant neoplasm of 三年
+C53.0-C53.9、C55                     breast stage I
+                   (四)子宮頸惡性腫瘤第一期    Malignant neoplasm of 三年
+C00.0-C96.9                         cervix uteri stage I
+(不含 C73、C94.4、       (五)除（一）~（四）之其他惡性 other malignant       五年
+C94.6)                  腫瘤            neoplasm
+
+                     二、遺傳性凝血因子缺乏。                            永久
+D66                  （一）遺傳性第Ⅷ凝血因子缺乏症 Hereditary factor VIII
+                                       deficiency
+D67                  （二）遺傳性第Ⅸ凝血因子缺乏症 Hereditary factor IX
+                                       deficiency
+D68.1                （三）遺傳性第 XI 凝血因子缺乏 Hereditary factor XI
+                     症                 deficiency
+D68.2                                  Hereditary deficiency
+                     （四）其他遺傳性凝血因子缺乏症 of other clotting
+                                       factors
+                     三、嚴重溶血性及再生不良性貧血                         五年
+                     〔血紅素未經治療，成人經常低於
+                     8gm/dl 以下，新生兒經常低於
+                     12gm/dl 以下者〕。
+D55.0-D58.9          （一）遺傳性溶血性貧血       Hereditary hemolytic
+                                       anemias
+D59.0-D59.9          （二）後天性溶血性貧血       Acquired hemolytic
+                                       anemias
+D46.4、D60.0-         （三）再生不良性貧血        Aplastic anemias
+D60.9、D61.01-D61.9
+                     四、慢性腎衰竭〔尿毒症〕，必須
+                                                            永久：申請
+                     接受定期透析治療者。
+                                                            時已確定需
+N18.5、N18.6          （一）慢性腎臟疾病       Chronic kidney disease
+                                                            定期透析者
+                                                            三個月：申
+I12.0                （二）高血壓性慢性腎臟病伴有第 Hypertensive chronic
+                                                            請時尚無法
+                        五期慢性腎病或末期腎病 kidney disease with
+                                                            確定需定期
+                                     stage 5 chronic kidney
+                                                            透析者
+                                     disease or end stage
+                                     renal disease
+
+I13.11、I13.2         （三）高血壓性心臟及慢性腎臟病 Hypertensive heart and
+                        伴有心臟衰竭及第五期慢性 chronic kidney disease
+                        腎病或末期腎病(高血壓性 with heart failure and
+                        心臟及慢性腎臟病未伴有心 with stage 5 chronic
+                        臟衰竭合併第五期慢性腎病 kidney disease, or end
+                        或末期腎病)       stage renal disease
+                                     (Hypertensive heart and
+                                     chronic kidney disease
+                                     without heart failure,
+                                     with stage 5 chronic
+                                     kidney disease, or end
+                                     stage renal disease)
+                     五、需終身治療之全身性自體免疫                         永久
+                  症候群。
+
+M32.0-M32.9       （一） 全身性紅斑狼瘡           Systemic lupus
+                                        erythematosus (SLE)
+M34.0- M34.9      （二） 全身性硬化症            Systemic sclerosis
+
+M05.70-M06.09、    （三）類風濕關節炎〔符合1987美 Rheumatoid arthritis
+M06.20-M06.39、       國風濕病學院修訂之診斷標 (Rheumatoid arthritis
+M06.80-M06.89、       準，含青年型類風濕關節    juvenile)
+M06.9、M08.00-     炎〕
+M08.99
+                                        Polymyositis
+M33.20-M33.29     （四）多發性肌炎
+                                        Dermatopolymyositis
+M33.00-M33.19     （五）皮多肌炎
+、M33.90-M33.99、
+M36.0
+                  （六）血管炎                Vasculitis
+M30.0、M30.2、M30.8    1.結節狀多動脈炎          Polyarteritis nodosa
+M31.0                2.過敏性血管炎           Hypersensitivity
+                                        angiitis
+M31.30、M31.31         3.韋格納氏肉芽腫         Wegener’s
+                                        granulomatosis
+M31.5、M31.6           4.巨細胞動脈炎          Giant cell arteritis
+I73.1                 5.血栓閉鎖性血管炎        Thromboangiitis
+                                        obliterans (Buerger’s
+                                        disease)
+M31.4                 6.主動脈弓症候群         Aortic arch syndrome
+                                        (Takayasu)
+M30.3                 7.皮膚粘膜淋巴結綜合症      Kawasaki disease
+                       （川崎病）
+M35.2                 8.貝賽特氏病           Behcet’s disease
+
+L10.0-L10.9       （七）天孢瘡                Pemphigus
+M35.00-M35.09     （八）乾燥症                Sicca syndrome
+K50.00-K50.919    （九）克隆氏症               Crohn’s disease
+
+K51.00-K51.919    （十）慢性潰瘍性結腸炎      Ulcerative colitis
+                  六、慢性精神病〔符合以下診斷，
+                  而病情已經慢性化者，除第（一）
+                  項外，限由精神科專科醫師所開具
+                  之診斷書並加註專科醫師證號〕
+F01.50、F01.51、    （一）失智症(具器質性病態)【限 Unspecified dementia         永久
+F03.90、F03.91        由精神科或神經科專科醫師
+                     開具之診斷書並加註專科醫
+                     師證號】
+F05                  （二）生理狀況所致之譫妄          Delirium due to known 六個月（每六
+                                           physiological condition 個月重新評
+                                                                  估）
+
+F02.80、F02.81、    （三）其他生理狀況所致之其他精 Other mental disorders 二年：首次
+F06.0、F06.1、F06.8    神疾患          due to known            永久：續發
+                                  physiological condition
+
+
+F20.0-F20.9、F25.0- （四）思覺失調症                Schizophrenia          永久
+F25.9
+F30.10-F30.13、F30.2- （五）情感性疾患              Affective disorders    二年：首次
+F30.9、F31.0-F31.9、                                                永久：續發
+F32.2-F32.9、F33.2-
+F33.9
+F22                  （六）妄想性疾患              Delusional disorders   二年：首次
+                                                                  永久：續發
+                     （七）廣泛性發展疾患            Pervasive developmental
+                                           disorders
+F84.0                    1.自閉性疾患           Autistic disorder       五年：首次
+                                                                  永久：續發
+F84.3                    2.其他兒童期崩解疾患       Other childhood         五年：首次
+                                           disintegrative disorder 永久：續發
+
+F84.5、F84.8              3.其他廣泛性發展疾患(含 Other pervasive            五年：首次
+                           亞斯伯格症候群)    developmental              永久：續發
+                                       disorders(Asperger's
+                                       syndrome)
+
+F84.9                    4.未明示之廣泛性發展疾患 Pervasive developmental 三年：首次
+                                       disorder,unspecified    五年：續發
+                                                                  五年：再發
+                                                                  永久：第四次
+                                                                  以後
+                     七、先天性新陳代謝異常疾病                                永久
+                     〔G6PD 代謝異常除外〕
+
+E00.0-E00.9、         （一）先天性缺碘症候群(含先天 Congenital iodine-
+E03.0、E03.1          性               deficiency
+                        甲狀腺低下)       syndrome(Congenital
+                                     hypothyroidism)
+
+E10.10-E10.9         （二）胰島素依賴型糖尿病          Type 1 diabetes
+                                           mellitus
+E23.2                （三）尿崩症
+                                           Diabetes insipidus
+E25.0-E25.9         （四）腎上腺性生殖器疾患
+                                          Adrenogenital disorders
+E70.0-E71.2、        （五）氨基酸輸送與代謝之失調
+E72.00-E72.51、                            Disorders of amino-acid
+E72.59、E72.8、                             transport and
+E72.9                                     metabolism
+                    （六）肝糖儲藏疾病
+E74.00-E74.09
+                    （七）半乳糖血症              Glycogen storage
+E74.20-E74.29                             disease
+                    （八）純高三酸甘油酯血症
+E78.1                                     Galactosemia
+                    （九）脂質失養症
+E88.1                                     Pure hyperglyceridemia
+
+                                          Lipodystrophy
+E75.21-E75.22、      （十）神經脂質代謝疾患           Disorders of
+E75.240-E75.249、                          sphingolipid metabolism
+E75.3、E77.0-E77.9
+
+E75.6、E78.70、       （十一）脂質代謝疾患            Disorders of lipoid
+E78.9                                     metabolism
+
+E83.00-E83.09       （十二）銅代謝疾患       Disorders of copper
+                                    metabolism
+E20.1、E83.50-       （十三）鈣代謝疾患       Disorders of calcium
+E83.59、E83.81                       metabolism
+D81.3、D81.5、        （十四）嘌呤及嘧啶代謝疾患   Disorders of purine and
+E79.1-E79.9                         pyrimidine metabolism
+E76.01-E76.9        （十五）葡萄糖胺聚合醣代謝疾患 Disorders of
+                                    glycosaminoglycan
+                                    metabolism
+E71.310-E71.548、    （十六）其他特定之新陳代謝疾患 Other specified
+E80.3、E88.40-                       disorders of metabolism
+E88.89、H49.811-
+H49.819
+                    （十七）新陳代謝疾患            Metabolic disorder,
+E88.9                                     unspecified
+
+
+                    八、心、肺、胃腸、腎臟、神經、
+                    骨骼系統等之先天性畸形及染色體
+                    異常
+Q00.0-Q00.2         （一）無腦症及類似畸形     Anencephaly and similar 永久
+                                    malformations
+G90.1、Q01.0-        （二）神經系統之其他先天性畸形 Other congenital        三年
+Q04.9、Q06.0-                               anomalies of nervous
+Q06.9、Q07.8、Q07.9                          system
+
+Q20.0-Q24.9          （三）先天性心球〔胚胎〕及心臟 Bulbus cordis anomalies 三年
+                        中隔閉合之畸形或心臟之其 and anomalies of
+                        他先天性畸形       cardiac septal closure
+                                     or other congenital
+                                     anomalies of heart
+Q25.0-Q28.9          （四）循環系統之其他先天性畸形 Other congenital        三年
+                                     anomalies of
+                                     circulatory system
+Q33.0                （五）先天性肺囊腫       Congenital cystic lung 永久
+
+Q33.3、Q33.6          （六）肺缺乏症形成不全及形成異 Agenesis, hypoplasia         永久
+                        常            and dysplasia of lung
+
+
+Q33.8、Q33.9          （七）肺之其他畸形       Other congenital        永久
+                                     malformations of lung
+Q41.0-Q45.9          （八）消化系統之其他先天性畸形 Other congenital        永久
+                                     anomalies of digestive
+                                     system
+Q60.0-Q60.6          （九）腎無發育及腎其他縮減缺陷 Renal agenesis and      永久
+                                     other reduction defects
+                                     of kidney
+Q61.00-Q61.9         （十）腎囊腫性疾病       Cystic kidney disease 永久
+Q62.0-Q62.39         （十一）先天性腎盂及輸尿管之阻 Congenital Obstructive 永久
+                         塞性缺陷        defects of renal pelvis
+                                     and ureter
+Q63.0-Q63.9          （十二）先天性腎其他畸形    Other congenital        永久
+                                     malformations
+                                     of kidney
+Q77.0-Q77.2、         （十三）骨軟骨發育不良伴有管狀 Osteochondrodysplasia 永久
+Q77.4、Q77.5、             骨及脊椎生長缺陷    with defects of growth
+Q77.7-Q77.9、Q78.4                    of tubular bones and
+                                     spine
+Q90.0-Q99.1、         （十四）染色體異常                               永久
+Q99.8、Q99.9                          Chromosomal
+                                     abnormalities
+Q35.1-Q35.7、Q36.0-   （十五）先天性畸形唇顎裂〔限需 Congenital cleft palate 三年
+Q37.9                    多次手術治療及語言復健 and cleft lip
+                         者〕
+
+                     九、燒燙傷面積達全身百分之二十                              一年
+                     以上；或顏面燒燙傷合併五官功能
+                     障礙者。
+T31.20-T31.99、    （一）體表面積之大於20%之燒傷 Burn of >20% of total
+T32.20-T32.99                      body surface
+T26.00XA-         （二）顏面燒燙傷         Burn confined to eye
+T26.92XA(第7位碼須       1.眼及其附屬器官之燒傷 and adnexa
+為 A)
+
+T20.30XA-T20.39XA、   2.臉及頭之燒傷，深部組織 Burn of face and head,
+T20.70XA-              壞死（深三度），伴有身 deep necrosis of
+T20.79XA(第7位碼須 體                   underlying tissue (deep
+為 A)                   部位損害。       third degree) with loss
+                                   of a body part
+                  十、接受腎臟、心臟、肺臟、肝
+                  臟、骨髓、胰臟及小腸移植後之追
+                  蹤治療。
+Z94.0             （一）腎臟移植手術後之追蹤治療 Kidney transplant        永久
+                                   status
+Z94.1             （二）心臟移植手術後之追蹤治療 Heart transplant status 永久
+
+Z94.2             （三）肺臟移植手術後之追蹤治療 Lung transplant status 永久
+
+Z94.4             （四）肝臟移植手術後之追蹤治療 Liver transplant status 永久
+
+Z94.81、Z94.84     （五）骨髓移植手術後之追蹤治療 Bone transplant status 五年
+
+Z94.83            （六）胰臟移植手術後之追蹤治療 Pancreas transplant          永久
+                                  status
+Z94.82            （七）小腸移植手術後之追蹤治療 Intestine transplant         永久
+                                  status
+T86.10-T86.19     （八）腎臟移植併發症      Complication of kidney       永久
+                                  transplant
+T86.40-T86.49     （九）肝臟移植併發症      Complication of liver        永久
+                                  transplant
+T86.20-T86.23、    （十）心臟移植併發症      Complication of heart        永久
+T86.290-T86.298                   transplant
+
+T86.810-T86.819   （十一）肺臟移植併發症           Complication of lung   永久
+                                        transplant
+T86.00-T86.09     （十二）骨髓移植併發症           Complication of bone   五年
+                                        marrow transplant
+T86.890-T86.899   （十三）胰臟移植併發症           Complication of        永久
+                                        pancreas transplant
+T86.850-T86.859   （十四）小腸移植併發症           Complication of        永久
+                                        intestine transplant
+                  十一、小兒麻痺、腦性麻痺所引起                              永久
+                  之神經、肌肉、骨骼、肺臟等之併
+                     發症者（其身心障礙等級在中度以
+                     上者）。
+
+A80.0-A80.2、A80.30- （一）急性脊髓灰白質炎併有其他 Acute poliomyelitis
+A80.39                 麻痺者          with other paralysis
+
+G80.0-G80.2、G80.4-   （二）嬰兒腦性麻痺                  Cerebral palsy
+G80.9
+
+(G82.20-G82.54、      （三）其他麻痺性徵候群（急性脊 Other paralytic
+G83.0-G83.9)+(B91、         髓灰白質炎之後期影響併有 syndromes ( late
+G14)                       提及麻痺性徵候群）             effects of acute
+                                                 poliomyelitis )
+T07                  十二、重大創傷且其嚴重程度到達 Major trauma rated 16 一年：首次
+                     創傷嚴重程度分數十六分以上者 or above on the                      三年：續發
+                                                 severity scale
+                     (INJURY SEVERITY SCORE ≧16) (INJURY SEVERITY SCORE
+                                                 ≧16)
+                     （※植物人狀態不可以 ISS 計算）
+Z99.11               十三、因呼吸衰竭需長期使用呼吸 Long-term mechanical                四十二日：
+                     器符合下列任一項者：                  ventilation, defined as 首次
+                                                 one of the following: 三個月：續
+                                                                         發
+                     （一）使用侵襲性呼吸輔助器二十 1. Invasive mechanical 一年：第三
+                           一天以上者                 ventilation for 21 or 次以後
+                                                 more days.
+                     （二）使用侵襲性呼吸輔助器改善 2. Invasive mechanical
+                           後，改用非侵襲性陽壓呼吸 ventilation followed by
+                           治療總計二十一天以上者 non-invasive
+                                                 ventilation, with a
+                                                 total duration of 21 or
+                                                 more days.
+                     （三）使用侵襲性呼吸輔助器後改 3. Invasive mechanical
+                           用負壓呼吸輔助器總計二十 ventilation followed by
+                           一天以上者                 negative pressure
+                                                 ventilation, with a
+                                                 total duration of 21 or
+                                                 more days.
+                     （四）特殊疾病(末期心衰竭、慢 4. Specific diseases,
+                     性                           e.g., End stage heart
+                          呼吸道疾病、原發性神經原 failure, chronic
+                     肌                           pulmonary diseases,
+                          肉病變、慢性換氣不足症候 primary neuromuscular
+                          群)而須使用非侵襲性陽壓呼 diseases, chronic
+                          吸治療總計二十一天以上            hypoventilation
+                     者。                          syndrome, which require
+                                      non-invasive
+                                      ventilation for 21 or
+                                      more days.
+                以上天數計算須符合連續使用定義
+                原則
+                十四
+E41             （一）因腸道大量切除或失去功能 Patients suffering from 三個月：首
+                   引起之嚴重營養不良者，給 severe malnutrition due 次
+                   予全靜脈營養已超過三十 to major enterectomy, 三年：續發
+                   天，且病情已達穩定狀態， intestinal failure
+                   口攝飲食仍無法提供足量營 already on a fully
+                   養者。          intravenous diet for 30
+                                days, and unable to
+                                obtain sufficient
+                                nutrition through an
+                                oral diet
+
+E43             （二）其他慢性疾病之嚴重營養不 Patients suffering from
+                   良者，給予全靜脈營養已超 severe malnutrition due
+                   過三十天，且病情已達穩定 to other chronic
+                   狀態，口攝飲食仍無法提供 disease already on a
+                   足量營養者。       fully intravenous diet
+                                for 30 days, and unable
+                                to obtain sufficient
+                                nutrition through an
+                                oral diet
+                十五、因潛水、或減壓不當引起之
+                嚴重型減壓病或空氣栓塞症，伴有
+                呼吸、循環或神經系統之併發症且
+                需長期治療者。
+T70.3XXA        （一）減壓病          Decompression sickness 永久
+
+T79.0XXA        （二）空氣栓塞症              Air embolism            三年
+G70.00、G70.01   十六、重症肌無力症             Myasthenia gravis       三年
+
+                十七、先天性免疫不全症                                   五年
+
+D80.1、D80.6、    （一）免疫缺乏症伴有主要抗體缺 Immunodeficiency with
+D80.8、D80.9        陷            predominantly antibody
+                                defects
+D81.0-D81.2、    （二）複合性免疫缺乏症     Combined
+D81.4、D81.6、                    immunodeficiencies
+D81.7、D81.89
+、D81.9
+D82.0-D82.9     （三）與其他重大缺陷相關的免疫 Immunodeficiency
+                   缺乏症          associated with other
+                                         major defects
+D83.0-D83.9      （四）常見多樣性免疫缺乏症           Common variable
+                                         immunodeficiency
+D84.0-D84.9      （五）其他免疫缺乏症              Other
+                                         immunodeficiencies
+                 十八、脊髓損傷或病變所引起之神                                   永久
+                 經、肌肉、皮膚、骨骼、心肺、泌
+                 尿及腸胃等之併發症者（其身心障
+                 礙等級在中度以上者）
+
+（S12.000A-S12.9XXA）+ （一） 脊柱骨折，伴有脊髓病灶 Fracture of vertebral
+〔（S14.101A-S14.159A）
+                   、                 column with spinal cord
+（S24.101A-S24.159A）、
+                                     injury
+（S34.101A-S34.139A）〕
+（第7碼均須為 A）
+S14.101A-S14.159A、
+S24.101A-S24.159A、
+S34.101A-S34.139A  （二）無明顯脊椎損傷之脊髓傷害 Spinal cord injury
+(第7碼均須為 A)                         without evidence of
+                                   spinal bone injury
+G32.0、G95.0、
+G95.11-G95.89、
+G95.9、G99.2      （三）其他脊髓病變               Other disease of spinal
+                                         cord
+
+                 十九、職業病          Occupational disease              三年：首次
+                 （以勞工保險條例第三十四條第一                                   永久：續發
+                 項規定之職業病種類表所載職業病
+                 範圍為限；適用對象限已退休之未
+                 具勞工保險被保險人身份之保險對
+                 象；具勞工保險被保險人身份者，
+                 應依勞工保險職業病就醫規定辦
+                 理，亦免自行負擔部分醫療費用）
+J60              （一）煤礦工人塵肺症      Coalworker's
+                                 pneumoconiosis
+                                 pneumoconiosis
+
+J61              （二）石綿沉著症        Asbestosis
+J62.0、J62.8      （三）其他矽石或矽鹽所致之塵肺 Pneumoconiosis due to
+                    症            other silica or
+                                 silicates
+J63.0-J63.6      （四）其他無機性塵埃所致之塵肺 Pneumoconiosis due to
+                    症            other inorganic dust
+J64、J65          （五）塵肺症          Pneumoconiosis
+                 二十、急性腦血管疾病（限急性發 Cerebrovascular disease 急性發作後
+                 作後一個月內）         (acute stage)           一個月內由
+                                                         醫師逕行認
+I60.00-I60.9    （一） 蜘蛛膜下腔出血           Subarachnoid hemorrhage 定免申請證
+                                                              明
+I61.0-I62.9     （二）腦內出血               Intracerebral
+                                      hemorrhage
+
+I63.00-I63.9    （三）腦梗塞                Cerebral infarction
+
+G45.0-G45.2、G45.4- （四）其他腦血管疾病         Other cerebrovascular
+G46.8、I67.0-I67.2、                    disease
+I67.4-I67.7、I67.81、
+I67.82、I67.841-
+I67.848、I67.89、
+I67.9、I68.0、I68.8
+G35             二十一、多發性硬化症            Multiple sclerosis      五年
+
+G71.0、G71.2     二十二、先天性肌肉萎縮症          Congenital muscular     永久
+                                      dystrophy
+
+                二十三、外皮之先天畸形           Congenital anomalies    永久
+                                      integument
+
+Q81.0-Q81.9、    （一）先天性水泡性表皮鬆懈症  Congenital
+Q82.8、Q82.9                     epidermolysis bullosa
+Q84.9           （二）皮膚先天性畸形      Congenital malformation
+                                of integument,
+                                unspecified
+Q80.0-Q80.9     （三）先天性魚鱗癬（穿山甲症） Congenital ichthyosis
+A30.0-A30.9     二十四、漢生病         Leprosy（Hansen’s        永久
+                                disease）
+K70.2-K70.31、   二十五、肝硬化症，併有下列情形 Liver cirrhosis with    五年
+K74.1-K74.69    之一者：            complication
+
+                （一）腹水無法控制             Ascites with poor
+                                      control
+
+                （二）食道或胃靜脈曲張出血         Esophageal or gastric
+                                      varices bleeding
+                （三）肝昏迷或肝代償不全          Hepatic coma or liver
+                                      dyscompensated
+                二十六、早產兒所引起之神經、肌
+                肉、骨骼、心臟、肺臟等之併發
+P07.10          症。              Neurological, muscular, 由醫師逕行
+                （一）早產兒出生後三個月內因神 skeletal, cardiac or    認定免申請
+                   經、肌肉、骨骼、心臟、肺 pulmonary complications 證明
+                   臟（含支氣管）等之併發症 due to
+                   住院者          premature infants to
+                                                 have admission care
+                                                 within three months
+                                                 birth.
+
+                                    Neurological, muscular, 三年
+P07.20                              skeletal, cardiac or
+                    （二）早產兒出生滿三個月後，經 pulmonary complications
+                       身心障礙等級評鑑為中度以 due to premature
+                       上，領有社政單位核發之身 infants certified to
+                       心障礙手冊者       have moderate
+                                    impairments three
+                                    months of age.
+T57.0X1A、           二十七、砷及其化合物之毒性作用 Toxic effect of arsenic 永久
+T57.0X2A、           （烏腳病）           and its compounds
+T57.0X3A、T57.0X4A                   (black foot disease)
+
+G12.20-G12.29       二十八、運動神經元疾病其身心障 Motor neuron disease               永久
+                    礙等級在中度以上或須使用呼吸器
+                    者【惟經神經內科專科醫師診斷為
+                    肌萎縮性側索硬化症者
+                    (AMYOTROPHIC LATERAL SCLEROSIS
+                    ICD-10-CM G12.21)，不受其身心
+                    障礙等級在中度以上或須使用呼吸
+                    器之限制】。
+A81.00-A81.09       二十九、庫賈氏病                       Creutzfeldt-Jakob   永久
+                                                   disease
+                    三十、經本部公告之罕見疾病，但 Rare disease                       永久
+                    已列屬前二十九類者除外。
+
