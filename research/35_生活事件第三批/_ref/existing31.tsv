@@ -1,0 +1,31 @@
+E_bags	1,2	—	傍晚你去{name}家，兩袋菜放在樓梯口
+E_corner	1,2	—	走到樓梯轉角，{name}停下來，說要看一下窗外的盆栽
+E_letter	1,2	—	{name}下樓拿掛號信，回到樓上，坐了五分鐘才開口
+E_bbq	1,2	—	中秋節，全家在社區中庭烤肉，以前都是{name}生火
+E_newyear	1,2	—	年夜飯，{name}還是自己顧那鍋佛跳牆
+E_choke	1,2,3	—	吃飯吃到一半，{name}嗆了兩次，揮揮手說沒事
+E_pillbox	1,2	—	{name}的藥盒，星期三那一格總是沒吃
+E_shoes	1,2	—	{name}傍晚鞋子穿不太進去，換了一雙大一號的拖鞋
+E_altar	1,2	—	你在神明桌的香爐底下，看到上個月的回診單
+E_flowers	1,2	—	以前初一十五，{name}都自己去買花拜拜
+E_tv	1,2	need osa_hidden	{name}看電視看到一半睡著，遙控器還握在手上
+E_chat	1,2,3,4	not @alone	{oth}在家族群組問{name}最近好不好
+E_rouwan	1,2	need @partner	你的伴侶下班順路買了{name}愛吃的肉圓
+E_exam	1,2,3	need @kids	孩子段考那一週，剛好碰上{name}回診
+E_bath	2	—	{name}洗澡要人在門外等，今天洗了四十分鐘
+E_cg_day_off	2,3,4,5	need foreign_cg	外籍看護{cg}每個月休假的那一天，你請假在家顧{name}
+E_cg_call	2,3,4,5	need foreign_cg	晚上你聽到{cg}在房間裡用家鄉話講電話，講到一半哭
+E_cg_note	2,4,5	need foreign_cg	星期六晚上，{cg}把一張摺好的紙放在餐桌上
+E_cg_doctor	2,3,4,5	need foreign_cg	{cg}說腰痛，要等休假那天再去看醫生
+E_cg_night	2,4,5	need foreign_cg	夜裡{name}不肯睡，{cg}坐在床邊陪到天亮
+E_ltc_noone	2,4	need ltc	長照核定下來了，居服員的時段卻一直排不出來
+E_sib_money	2,3,4	not @alone	{oth}說：「我出錢，你出力，這樣公平。」
+E_ward_chair	3	—	你在病房的陪病椅上睡了一晚，醒來脖子轉不過來
+E_good_news	3	need in_icu	等加護病房探病時間的時候，你一直滑手機
+E_alarm	4	need home_vent	半夜，呼吸器叫了一聲，你跳起來看，是管子沒接緊
+E_outage_notice	4	need home_vent	電力公司打電話來，說下週二要計畫性停電
+E_typhoon	4	need home_vent	颱風夜，燈閃了兩下，你抱著備用電源坐在{name}床邊
+E_rt_home	4	need trach, home_team	居家團隊的呼吸治療師看完{name}的氣切口，轉頭問你
+E_ricecake	5	need @say	{name}說想吃以前巷口那家的米糕
+E_hands	5	—	{name}睡著的時候，你握著{ta}的手
+E_calm_walk	1	—	傍晚，你陪{name}去公園走一圈
