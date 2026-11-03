@@ -1,0 +1,66 @@
+網址: https://statdb.mol.gov.tw/html/mon/212050.pdf
+HTTP 狀態: 200
+Content-Type: application/pdf
+讀取時間(台灣): 2026-11-03 16:26:14
+----
+                     表 12-5 引進移工在臺人數－按開放項目及國籍分
+             Table 12-5 Foreign Workers in Taiwan by Various Type and Nationality
+
+                                                 115年 9月底                End of Sep., 2026                       單位：人          Unit：Person
+
+                項      目      別                           總    計           印    尼       菲律賓           泰    國         越    南        其   他
+                                                           Grand
+                      Item                                                 Indonesia   Philippines    Thailand       Vietnam       Others
+                                                            total
+
+總                計       Grand total                       917,278          346,603     194,284         73,693       302,690                8
+有效聘僱許可移工                 Foreign workers with a valid      821,857          314,751     190,798         71,479       244,822                7
+                         employment permit
+    產業移工                 Foreign workers in productive     582,635          115,946     169,651         71,229       225,802                7
+                         industries
+     政府重大公共工程 Governmental major                            19,763             4,007           538        9,882          5,336         －
+              construction projects
+     船      員            Crewmen                              9,152            7,237           828               9       1,078         －
+     三K行業專案              3 K industries                    332,898           67,726          86,808     40,080       138,284           －
+     重大投資製造業             Major investing                         －                －             －           －              －           －
+                         manufacturing
+     重大投資營造業             Major investing construction         5,338            1,988           130        1,354          1,863              3
+     製造業兩年               Quota readjusted two years         15,253             3,202           888         337        10,826           －
+     期滿重整                after initial allocation of
+                         manufacturing
+     傳統製造業               Traditional manufacturing               －                －             －           －              －           －
+     特殊時程產業              Specific timeframe                      －                －             －           －              －           －
+                         industries
+     附加移工                Extra workers                     161,618           20,742          78,587     14,152        48,133                4
+     國內新增投資案             Domestic new investment                 －                －             －           －              －           －
+                         projects
+     臺商回臺投資案             Investment in Taiwan by over-        8,082            1,807           928         553           4,794         －
+                         seas Taiwanese businesses
+     屠宰工作                Slaughtering                         2,029              860           110         258            801          －
+     農、林、牧或養             Agriculture, forestry, animal      13,993             3,979           561         775           8,678         －
+     殖漁業工作               husbandry or aquaculture work
+     外展農務工作              Outreaching agricultural job         2,589              469            56         237           1,827         －
+     外展製造工作              Outreach manufacturing job              －                －             －           －              －           －
+     一般營造業               General construction               11,251             3,623           211        3,572          3,845         －
+     廢棄物及資源物             Waste and resource recycling           669              306             6          20            337          －
+     回收處理工作              and processing work
+     其他                  Others                                  －                －             －           －              －           －
+    社福移工                 Foreign workers in social         239,222          198,805          21,147        250        19,020           －
+                         welfare
+     養護看護工               Institutional nursing              16,684             5,732          1,427         40           9,485         －
+     多元陪伴照顧服             Diverse companionship                      53            46            －           －                  7       －
+     務工作                 service work
+     家庭看護工               Family nursing                    215,410          187,479          18,562        184           9,185         －
+     家庭幫傭                Home-maids                           7,075            5,548          1,158         26            343          －
+聘僱許可失效移工                 Foreign workers whose              95,421           31,852           3,486       2,214       57,868                1
+                         employment permit has
+                         become invalid
+資料來源： 勞動部勞動力發展署。
+說      明：1.同表12-1說明1至說明5。
+           2.「其他」包含馬來西亞、蒙古等其他國籍。
+Source：Workforce Development Agency, MOL.
+Note： 1.See note 1 to note 5 of table 12-1.
+      2."Others" includes Malaysia, Mongolia, and other countries.
+
+                                                             -229-
+

@@ -1,0 +1,265 @@
+網址: https://statdb.mol.gov.tw/html/mon/212010.pdf
+HTTP 狀態: 200
+Content-Type: application/pdf
+讀取時間(台灣): 2026-11-03 16:24:51
+----
+                               表 12-1 引進移工在臺人數－按開放項目分
+
+
+                                                                                                              單位：人
+
+
+       項      目       別          總        計        有效聘僱                          產       業    移       工
+                                                   許可移工
+                                                                               政府重大            六行業
+                                                Foreign workers    計           公共工程          十五種職業          船       員
+                                                  with a valid                Governmental 6 industries
+             Item                Grand total      employment
+                                                                  Total       major constru-   and 15        Crewmen
+                                                     permit                   ction projects occupations
+  105年底         End of 2016          624,768         562,017      357,997            5,531           －             7,710
+  106年底         End of 2017          676,142         615,168      398,295            4,260           －             9,297
+
+
+                                                  有效聘僱                          產       業      移     工
+       項      目       別          總        計       許可移工
+                                                                               政府重大
+                                                Foreign workers    計           公共工程            船    員      三K行業專案
+                                                  with a valid                Governmental
+             Item                Grand total      employment      Total       major constru-   Crewmen     3 K industries
+                                                     permit                   ction projects
+  107年底         End of 2018          706,850         646,474      422,256            3,286         9,658        297,134
+  108年底         End of 2019          718,058         662,788      433,054            3,689         9,900        302,446
+  109年底         End of 2020          709,123         644,014      426,495            5,348         8,693        296,218
+  110年底         End of 2021          669,992         598,247      405,419            5,700         6,967        280,791
+  111年底         End of 2022          728,081         646,165      458,203           12,044         8,460        303,745
+  112年底         End of 2023          753,430         664,214      463,229           17,764         9,028        302,919
+  113年底         End of 2024          820,083         724,805      510,138           20,259         9,250        317,158
+  114年底         End of 2025          866,275         766,212      540,662           19,440         9,287        324,001
+    9月底         End of Sept.         858,939         758,716      536,321           20,274         9,320        323,843
+   10月底         End of Oct.          862,184         761,743      538,534           20,157         9,292        324,293
+   11月底         End of Nov.          865,811         765,590      540,662           19,882         9,308        324,745
+   12月底         End of Dec.          866,275         766,212      540,662           19,440         9,287        324,001
+  115年底         End of 2026
+
+    1月底         End of Jan.          870,587         770,836      543,106           19,358         9,190        325,030
+    2月底         End of Feb.          865,462         766,270      538,429           18,957         9,041        321,098
+    3月底         End of Mar.          873,347         773,324      545,523           19,195         8,971        324,208
+    4月底         End of Apr.          880,130         780,195      551,109           19,269         9,102        326,329
+    5月底         End of May           886,980         787,219      557,283           19,574         9,159        327,763
+    6月底         End of June          895,115         795,748      564,573           19,529         9,223        330,095
+    7月底         End of July          903,674         804,896      571,661           19,586         9,185        331,961
+    8月底         End of Aug.          910,376         812,762      577,124           19,574         9,077        332,586
+    9月底         End of Sept.         917,278         821,857      582,635           19,763         9,152        332,898
+      男          Male                472,157         417,941      415,976           19,736         9,113        244,959
+      女          Female              445,121         403,916      166,659               27            39         87,939
+本月底與上月底比較(％)
+Change from last period
+                                         0.76            1.12          0.95            0.97         0.83            0.09
+本月底與上年同月底比較(％)
+Change from the same period of           6.79            8.32          8.64           -2.52        -1.80            2.80
+last year
+資料來源： 勞動部勞動力發展署。
+說  明：1.本表係依就業服務法第46條第1項第8款至第10款規定工作之外國人。
+      2.「有效聘僱許可移工」包含合法聘僱移工及已入境在臺尚未完成聘僱等移工。
+      3.「聘僱許可失效移工」包含行蹤不明及聘僱關係終止等移工。(其餘說明接p222- p223)
+
+
+
+                                                        -220-
+                           Table 12-1 Foreign Workers in Taiwan by Various Type
+
+
+                                                                                                                           Unit：Person
+
+
+                                               Foreign workers in productive industries
+                                                     新廠及         經濟部加工 三K行業專案                 重大投資            重大投資
+六十八種行業 七十三種行業 陶瓷等六行業
+                                                    擴充設備案        出口區及科                          製造業             營造業
+                                                                 學園區專案
+ 68 industries      73 industries   Chinaware etc.,  New and                  3 K industries Major investing Major investing
+                                     6 industries expanded firms EPZ and SBIP                manufacturing construction
+
+            －                  －               －               －                －              259,038               31               －
+            －                  －               －               －                －              282,642                8               66
+
+
+                                               Foreign workers in productive industries
+                                                 製造業兩年
+ 重大投資製造業                 重大投資營造業                  期滿重整                 傳統製造業                    特殊時程產業                    附加移工
+                                               Quota readjusted
+  Major investing          Major investing      two years after         Traditional            Specific timeframe
+                                               initial allocation                                                     Extra workers
+  manufacturing             construction                               manufacturing               industries
+                                               of manufacturing
+                  1                     121               12,595                        8                      47             95,225
+                  1                     173               13,376                        5                      14             98,625
+                 －                      192               13,688                        2                       1             97,628
+                 －                      162               12,849                        1                       1             94,802
+                 －                    1,630               12,441                       －                        1            114,500
+                 －                    3,112               12,534                       －                        1            110,129
+                 －                    3,764               13,153                       －                       －             125,757
+                 －                    4,801               14,032                       －                       －             142,104
+                 －                    4,578               13,627                       －                       －             139,461
+                 －                    4,619               13,745                       －                       －             140,648
+                 －                    4,784               13,781                       －                       －             141,718
+                 －                    4,801               14,032                       －                       －             142,104
+
+
+                 －                    4,890               14,181                       －                       －             142,958
+                 －                    4,828               13,775                       －                       －             143,141
+                 －                    4,955               14,088                       －                       －             145,972
+                 －                    5,025               14,289                       －                       －             148,252
+                 －                    5,031               14,454                       －                       －             151,092
+                 －                    5,089               14,573                       －                       －             153,804
+                 －                    5,175               14,701                       －                       －             156,488
+                 －                    5,240               14,916                       －                       －             159,009
+                 －                    5,338               15,253                       －                       －             161,618
+                 －                    5,314               10,835                       －                       －              95,014
+                 －                       24                4,418                       －                       －              66,604
+                    --                  1.87                 2.26                         --                    --               1.64
+
+                    --                16.60                 11.93                         --                    --              15.89
+
+Source：Workforce Development Agency, MOL.
+Note： 1.The foreign workers in the table include the foreign workers stipulated in accordance with Subparagraphs 8~10 of Paragraph 1
+        of Article 46 of the Employment Services Act.
+      2."Foreign workers with a valid employment permit" include legally employed foreign workers and those who are in Taiwan
+        but have not completed required employment procedures.
+      3."Foreign workers whose employment permit has become invalid" include foreign workers who have been absent from work
+        and out of contact and those whose employment relationship has been terminated.(other notes can be found on p222-p223)
+                                                               -221-
+                           表 12-1 引進移工在臺人數－按開放項目分(續)
+
+
+                                                                                                                  單位：人
+
+
+       項      目       別                                           產       業    移       工
+                                                製造業兩年                                            特殊時程
+                                 七行業專案           期滿重整            傳統製造業 非傳統製造業                       產業          附加移工
+             Item                             Quota readjusted                                    Specific
+                                               two years after
+                                 7 industries initial             Traditional  Non-traditional   timeframe     Extra workers
+                                                      allocation manufacturing manufacturing     industries
+                                              of manufacturing
+  105年底         End of 2016               －            10,658             137              1          1,716         69,652
+  106年底         End of 2017               －            11,600              21             －             326         86,052
+
+
+       項      目       別                                        產       業     移        工
+                                  國內新增           臺商回臺                      農、林、牧或           外展農務                外展製造
+                                                  投資案          屠宰工作        養殖漁業工作
+                                    投資案                                                        工作                 工作
+                                 Domestic new  Investment  in                Agriculture,   Outreaching          Outreach
+             Item                             Taiwan  by over-             forestry, animal
+                                  investment                                                agricultural       manufacturing
+                                    projects  seas Taiwanese Slaughtering   husbandry or        job                job
+                                                 businesses               aquaculture work
+  107年底         End of 2018                589          2,797            795              －              －               －
+  108年底         End of 2019                424          3,306          1,080               6              9              －
+  109年底         End of 2020                246          2,801          1,342              39            297              －
+  110年底         End of 2021                 85          2,106          1,276             360            319              －
+  111年底         End of 2022                 21          1,429          1,748           1,563            621              －
+  112年底         End of 2023                  4          1,195          2,003           3,037          1,432              －
+  113年底         End of 2024                 －             690          2,037           7,521          2,267              －
+  114年底         End of 2025                －              550          1,944          11,479          2,605              －
+    9月底         End of Sept.               －              612          1,914          10,442          2,516              －
+    10月底        End of Oct.                －              582          1,917          10,828          2,538              －
+    11月底        End of Nov.                －              572          1,947          11,158          2,569              －
+    12月底        End of Dec.                －              550          1,944          11,479          2,605              －
+  115年底         End of 2026
+
+    1月底         End of Jan.                －              562          1,978          11,819          2,613              －
+    2月底         End of Feb.                －              561          1,961          11,888          2,596              －
+    3月底         End of Mar.                －              572          1,953          12,224          2,582              －
+    4月底         End of Apr.                －              781          1,955          12,500          2,579              －
+    5月底         End of May                 －            1,588          1,977          12,795          2,590              －
+    6月底         End of June                －            3,153          1,994          13,069          2,584              －
+    7月底         End of July                －            4,976          2,016          13,354          2,599              －
+    8月底         End of Aug.                －            6,606          2,039          13,680          2,597              －
+    9月底         End of Sept.               －            8,082          2,029          13,993          2,589              －
+      男          Male                      －            6,174          1,681           9,591          1,753              －
+      女          Female                    －            1,908            348           4,402            836              －
+本月底與上月底比較(％)
+Change from last period
+                                              --        22.34          -0.49             2.29          -0.31              --
+本月底與上年同月底比較(％)
+Change from the same period of                --            --          6.01           34.01            2.90              --
+last year
+說      明：4.「製造業兩年期滿重整」包括六行業十五種職業、六十八種行業等期滿重新申請，及就業服務法第59條
+           轉換雇主或期滿重新申請。
+         5.「其他」包含六行業十五種職業、六十八種行業、七十三種行業、陶瓷等六行業、新廠及擴充設備案、
+           經濟部加工出口區及科學園區專案、七行業專案、非傳統製造業等。
+         6.107年起產業移工之開放項目變更，相關統計配合修正。
+
+
+                                                         -222-
+                    Table 12-1 Foreign Workers in Taiwan by Various Type(Cont.)
+
+
+                                                                                                                        Unit：Person
+
+
+     Foreign workers in productive industries                社福移工 Foreign workers in social welfare                  聘僱許可
+                                                                                                                     失效移工
+  國內新增               臺商回臺
+                      投資案               屠宰工作                   計             看     護       工    家庭幫傭              Foreign workers
+    投資案
+ Domestic new      Investment in                                                                                 whose employment
+  investment     Taiwan by over-       Slaughtering           Total              Nursing       Home-maids           permit has
+    projects      seas Taiwanese                                                 workers                          become invalid
+                     businesses
+            972              2,211                  340        204,020             202,502              1,518                62,751
+            976              2,571                  476        216,873             215,313              1,560                60,974
+
+
+    Foreign workers in productive industries                 社福移工 Foreign workers in social welfare                 聘僱許可
+                                                                                                                    失效移工
+                  廢棄物及資源物
+ 一般營造業             回收處理工作                其       他             計             看     護       工    家庭幫傭              Foreign workers
+                                                                                                                 whose employment
+                  Waste and resource
+    General                                                                      Nursing                            permit has
+                    recycling and          Others             Total                            Home-maids         become invalid
+  construction     processing work                                               workers
+
+            －                    －                  －          224,218             222,691              1,527                60,376
+            －                    －                  －          229,734             228,320              1,414                55,270
+            －                    －                  －          217,519             216,244              1,275                65,109
+            －                    －                  －          192,828             191,745              1,083                71,745
+            －                    －                  －          187,962             186,810              1,152                81,916
+            71                   －                  －          200,985             199,466              1,519                89,216
+         8,282                   －                  －          214,667             212,805              1,862                95,278
+        10,041                  378                 －          225,550             223,562              1,988               100,063
+         9,680                    54                －          222,395             220,353              2,042               100,223
+         9,777                  138                 －          223,209             221,191              2,018               100,441
+         9,907                  291                 －          224,928             222,917              2,011               100,221
+        10,041                  378                 －          225,550             223,562              1,988               100,063
+
+
+        10,070                  457                 －          227,730             225,727              2,003                99,751
+        10,114                  469                 －          227,841             225,848              1,993                99,192
+        10,302                  501                 －          227,801             225,822              1,979               100,023
+        10,507                  521                 －          229,086             227,125              1,961                99,935
+        10,712                  548                 －          229,936             227,919              2,017                99,761
+        10,867                  593                 －          231,175             228,792              2,383                99,367
+        11,014                  606                 －          233,235             229,843              3,392                98,778
+        11,142                  658                 －          235,638             230,536              5,102                97,614
+        11,251                  669                 －          239,222             232,147              7,075                95,421
+        11,186                  620                 －            1,965               1,923                 42                54,216
+            65                   49                 －          237,257             230,224              7,033                41,205
+           0.98                1.67                   --              1.52             0.70             38.67                  -2.25
+
+         16.23                     --                 --              7.57             5.35           246.47                   -4.79
+
+Note： 4."Quota readjusted two years after initial allocation of manufacturing" involve 6 industries and 15 occupations, and 68 industries
+        etc, which also contain the foreign worker shift to work for a new employer or to engage in new work as referred to the Article
+        59 of Employment Service Act.
+      5."Others" includes 6 industries and 15 occupations, 68 industries, 73 industries, Chinaware etc., 6 industries, New and expanded
+        firms, EPZ and SBIP, 7 industries, Non-traditional manufacturing.
+      6.From 2018, the various type for productive industrial workers have changed, and relevant statistics have been revised accordingly.
+
+                                                              -223-
+
