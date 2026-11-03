@@ -1,5 +1,5 @@
 """依序合併各處核對結果，產出每筆來源的核對狀態。
-順序：28_本機補核_第二批 → 26_本機補核 → 23_原頁核對 → 各輪來源表「已開原頁」標記；都沒有＝未核。
+順序：28_本機補核_第二批 D1／D2（瀏覽器重開）→ 28_本機補核_第二批 B01～B12 → 26_本機補核 → 23_原頁核對 → 各輪來源表「已開原頁」標記；都沒有＝未核。
 若較前面的來源只寫「打不開」、後面有實際結果，採用後面的結果（判斷），並在 依據 欄註明。
 用法：python3 -I build_status_index.py <research 資料夾路徑>
 """
@@ -40,7 +40,12 @@ def add(i, layer, pri, raw, f):
     n = norm(raw)
     if n: records.setdefault(i, []).append((pri, layer, raw, n, f))
 
-# 28
+# 28 D1／D2（瀏覽器重開，蓋過 B01～B12 的「打不開」）
+for f in sorted((R/'28_本機補核_第二批').glob('D*_核對表.md')):
+    for c in rows(f):
+        if len(c) > 4 and ID.fullmatch(c[0]):
+            add(c[0], '28_本機補核_第二批（D 瀏覽器重開）', 0, c[4], f.name)
+# 28 B01～B12
 for f in sorted((R/'28_本機補核_第二批').glob('B*_核對表.md')):
     for c in rows(f):
         if len(c) > 4 and ID.fullmatch(c[0]):
