@@ -1,5 +1,5 @@
 # q15
-- 送出時間：2026-11-04 18:46
+- 送出時間：2026-11-04 18:45
 - 查詢字串：American Thoracic Society 2016 pediatric chronic home invasive ventilation guideline school travel caregiver recommendations
 - 模式：standard
 

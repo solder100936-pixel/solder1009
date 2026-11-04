@@ -1,5 +1,5 @@
 # q16
-- 送出時間：2026-11-04 18:46
+- 送出時間：2026-11-04 18:45
 - 查詢字串：Cedar Rapids v. Garret F. ventilator student school nursing related services IDEA 1999
 - 模式：standard
 
