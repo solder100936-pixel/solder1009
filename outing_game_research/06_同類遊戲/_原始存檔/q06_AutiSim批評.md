@@ -1,5 +1,5 @@
 # q06
-- 送出時間：2026-11-04 18:43
+- 送出時間：2026-11-04 18:40（事後補記，誤差約 ±1 分鐘）
 - 查詢字串：Auti-Sim game criticism autism simulation empathy game critique "empathy games"
 - 模式：standard
 

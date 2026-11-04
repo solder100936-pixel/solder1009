@@ -1,5 +1,5 @@
 # q01
-- 送出時間：2026-11-04 18:39
+- 送出時間：2026-11-04 18:38（事後補記，誤差約 ±1 分鐘）
 - 查詢字串：Silverman Gwinn Van Boven 2015 disability simulations negative effects attitudes
 - 模式：standard
 

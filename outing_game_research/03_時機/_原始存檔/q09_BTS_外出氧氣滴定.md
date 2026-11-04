@@ -1,5 +1,5 @@
 # q09
-- 送出時間：2026-11-04 18:43（台灣時間）
+- 送出時間：2026-11-04 18:40（台灣時間）
 - 查詢字串：BTS home oxygen guideline 2015 ambulatory oxygen titration walk test flow rate increase exertion
 - mode: standard
 

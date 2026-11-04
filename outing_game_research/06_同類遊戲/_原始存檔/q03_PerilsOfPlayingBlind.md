@@ -1,5 +1,5 @@
 # q03
-- 送出時間：2026-11-04 18:41
+- 送出時間：2026-11-04 18:39（事後補記，誤差約 ±1 分鐘）
 - 查詢字串：Silverman "Perils of Playing Blind" blindness simulation better way to teach alternative techniques contact
 - 模式：standard
 

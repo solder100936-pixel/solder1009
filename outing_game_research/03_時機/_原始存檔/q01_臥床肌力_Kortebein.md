@@ -1,5 +1,5 @@
 # q01
-- 送出時間：2026-11-04 18:39（台灣時間）
+- 送出時間：2026-11-04 18:38（台灣時間）
 - 查詢字串：bed rest muscle strength loss per day older adults Kortebein 10 days leg lean mass
 - mode: standard
 

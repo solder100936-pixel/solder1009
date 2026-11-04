@@ -1,6 +1,6 @@
 # p04 law.moj.gov.tw 身心障礙者輔具費用補助辦法 第 3 條
 - 網址：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050060
-- 讀取時間：2026-11-04 18:41（curl 全文，原文）
+- 讀取時間：2026-11-04 18:40（curl 全文，原文）
 
 ```
 修正日期：民國 111 年 10 月 20 日
