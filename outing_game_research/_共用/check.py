@@ -120,7 +120,7 @@ def check_source_logs(root: Path):
 def check_cited_ids_exist(root: Path, ids: set):
     missing = {}
     for p in sorted(root.rglob("*.md")):
-        if any(part in SKIP_DIRS for part in p.relative_to(root).parts):
+        if any(part in SKIP_DIRS for part in p.relative_to(root).parts) or p.name == "99_檢查結果.md":
             continue
         for m in re.finditer(r"\[(S\d{1,2}-\d{3}[a-z]?)\]", p.read_text(encoding="utf-8")):
             if m.group(1) not in ids:
